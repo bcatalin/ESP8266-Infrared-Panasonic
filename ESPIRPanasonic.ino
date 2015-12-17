@@ -11,9 +11,9 @@
 #define PanasonicPower        0x100BCBD  // Panasonic Power button
 
 #define wifi_ssid "WLAN_62"
-#define wifi_password "12345678"
+#define wifi_password "........"
 
-#define mqtt_server "192.168.8.26"
+#define mqtt_server "......."
 #define mqtt_user "CATA"
 #define mqtt_password "CATA"
 #define mqtt_port 1880
